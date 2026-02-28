@@ -31,14 +31,17 @@ can streamline billing, reduce errors, and prepare data for analytics or AI-assi
 
 ### Main Dashboard
 ![Main Dashboard](screenshots/dashboard.png)
+
 *Primary interface for invoice creation and workflow management.*
 
 ### Invoice Preview
 ![Invoice Preview](screenshots/invoice-preview.png)
+
 *Generated invoices after PDF export.*
 
 ### Employee Hour Tracking
 ![Employee Hour Tracking](screenshots/employee-hours.png)
+
 *Automated aggregation of employee hours with regular and overtime breakdowns.*
 
 
