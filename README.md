@@ -35,7 +35,7 @@ can streamline billing, reduce errors, and prepare data for analytics or AI-assi
 
 ### Invoice Preview
 ![Invoice Preview](screenshots/invoice-preview.png)
-*Preview of generated invoices prior to PDF export.*
+*Generated invoices after PDF export.*
 
 ### Employee Hour Tracking
 ![Employee Hour Tracking](screenshots/employee-hours.png)
