@@ -2,6 +2,7 @@
 
 Desktop invoice generation software built in **C# (WinForms)** for a small construction company.  
 Designed to automate invoice creation, employee hour tracking, and structured data export.
+<img width="3830" height="2069" alt="image" src="https://github.com/user-attachments/assets/8495b20f-0c7e-4136-9011-37cb30e65694" />
 
 ##  Why This Project Exists
 Small construction and trade businesses often rely on manual invoice creation, spreadsheets,
